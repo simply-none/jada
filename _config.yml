@@ -105,4 +105,6 @@ theme: purer
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: https://github.com/simply-none/jada.git
+  branch: master
